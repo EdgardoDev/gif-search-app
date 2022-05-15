@@ -1,21 +1,17 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Gif Search App" />
-
-  &#xa0;
-
-  <!-- <a href="https://gifsearchapp.netlify.app">Demo</a> -->
+  <img src="https://github.com/EdgardoDev/MyFiles/blob/main/react-square.png?raw=true" alt="React Logo" height="200" width="200"/>
 </div>
 
 <h1 align="center">Gif Search App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/gif-search-app?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/EdgardoDev/gif-search-app?logo=react&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/gif-search-app?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/gif-search-app?logo=react&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/gif-search-app?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/gif-search-app?logo=github&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/gif-search-app?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/gif-search-app?logo=github&style=for-the-badge&color=066da5">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/gif-search-app?color=56BEB8" /> -->
 
@@ -24,13 +20,6 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/gif-search-app?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Gif Search App 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
