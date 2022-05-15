@@ -7,11 +7,11 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/EdgardoDev/gif-search-app?logo=react&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/gif-search-app?logo=react&logoColor=%23fff&style=for-the-badge&color=066da5">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/EdgardoDev/gif-search-app?logo=react&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/gif-search-app?logo=github&logoColor=%23fff&style=for-the-badge&color=066da5">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EdgardoDev/gif-search-app?logo=github&logoColor=%23fff&style=for-the-badge&color=066da5">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/gif-search-app?logo=github&style=for-the-badge&color=066da5">
+  <img alt="License" src="https://img.shields.io/github/license/EdgardoDev/gif-search-app?logo=github&style=for-the-badge&color=066da5">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/gif-search-app?color=56BEB8" /> -->
 
