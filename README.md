@@ -35,7 +35,7 @@
 
 ## :dart: About ##
 
-React Giphy search application.
+React gif search application that interacts with the GIPHY API.
 
 ## :sparkles: Features ##
 
@@ -44,7 +44,7 @@ React Giphy search application.
 :heavy_check_mark: useEffect.\
 :heavy_check_mark: Show image titles.\
 :heavy_check_mark: Use and create custom hooks.\
-:heavy_check_mark: Write tests.\
+:heavy_check_mark: Write tests.
 
 
 ## :rocket: Technologies ##
