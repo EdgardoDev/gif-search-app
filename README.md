@@ -35,13 +35,17 @@
 
 ## :dart: About ##
 
-Describe your project
+React Giphy search application.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Communication between components.\
+:heavy_check_mark: Use Fetch API.\
+:heavy_check_mark: useEffect.\
+:heavy_check_mark: Show image titles.\
+:heavy_check_mark: Use and create custom hooks.\
+:heavy_check_mark: Write tests.\
+
 
 ## :rocket: Technologies ##
 
@@ -80,7 +84,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Edgardo Pinto-Escalier</a>
+Made with :heart: by <a href="https://github.com/EdgardoDev" target="_blank">Edgardo Pinto-Escalier</a>
 
 &#xa0;
 
