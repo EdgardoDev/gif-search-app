@@ -44,7 +44,12 @@ React gif search application that interacts with the GIPHY API.
 :heavy_check_mark: useEffect.\
 :heavy_check_mark: Show image titles.\
 :heavy_check_mark: Use and create custom hooks.\
-:heavy_check_mark: Write tests.
+:heavy_check_mark: Write tests for specific components.\
+:heavy_check_mark: Write tests for custom hooks.\
+:heavy_check_mark: Write tests to wait for changes on custom hooks.\
+:heavy_check_mark: Write tests that simulate events on inputs and forms.\
+:heavy_check_mark: Write tests that simulate calls to functions.\
+:heavy_check_mark: Write tests that evaluate if exist any element on a component.
 
 
 ## :rocket: Technologies ##
