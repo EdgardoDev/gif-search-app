@@ -6,7 +6,7 @@ exports[`Tests for <GifTemplateItem /> It should show the component without any 
 >
   <img
     alt="title"
-    src="https://localhost:8080/"
+    src="https://localhost/image.jpg"
   />
   <p>
     title
