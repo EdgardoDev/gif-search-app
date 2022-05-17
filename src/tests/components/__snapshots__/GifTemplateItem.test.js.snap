@@ -4,7 +4,12 @@ exports[`Tests for <GifTemplateItem /> It should show the component without any 
 <div
   className="gifs-card animate__animated animate__bounce"
 >
-  <img />
-  <p />
+  <img
+    alt="title"
+    src="https://localhost:8080/"
+  />
+  <p>
+    title
+  </p>
 </div>
 `;

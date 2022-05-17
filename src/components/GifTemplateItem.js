@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types';
 
 export const GifTemplateItem = ({ title, url }) => {
   return (
@@ -8,3 +9,11 @@ export const GifTemplateItem = ({ title, url }) => {
     </div>
   )
 }
+
+// PopTypes implementation.
+GifTemplateItem.propTypes = {
+  title: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired
+}
+
+
