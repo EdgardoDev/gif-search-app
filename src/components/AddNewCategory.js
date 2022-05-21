@@ -20,12 +20,9 @@ export const AddNewCategory = ({ setAppCategories }) => {
   }
 
   return (
-    <form onSubmit={ handleSubmit }>
-      <input
-        type="text"
-        value={inputValue}
-        onChange={ handleInputChange }
-      />
+    <form onSubmit={handleSubmit}>
+      <p>{inputValue }</p>
+      <input type="text" value={inputValue} onChange={handleInputChange} />
     </form>
   )
 }
