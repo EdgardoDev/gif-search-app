@@ -31,4 +31,20 @@ describe('Tests for the component <AddNewCategory />', () => {
     expect(setAppCategories).not.toHaveBeenCalled();
   })
 
+  test('It should call setAppCategories and clear the input text', () => {
+    const value = 'Hello World!';
+
+    // Simulate inputChange
+    wrapper.find('input').simulate('change', { target: { value } });
+
+    // Simulate submit
+    wrapper.find('form').simulate('submit', { preventDefault() { } });
+
+    // Call setAppCategories
+    expect(setAppCategories).toHaveBeenCalled();
+
+    // Clear the input value to ''
+    expect(wrapper.find('input').prop('value')).toBe('');
+  })
+
 })
